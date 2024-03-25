@@ -9,7 +9,7 @@
 - 🚀 Im currently studying at the University of Information Technology, VN.  
   
 
-- 🌱 I’m currently learning Spring boot  
+- 🌱 I’m currently learning Reactjs  
   
 
 - ❓ Ask me about anything related to Web development  
