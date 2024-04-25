@@ -15,7 +15,7 @@
 - ❓ Ask me about anything related to Web development  
   
 
-- ⚡ Fun fact: I'm as shy as a mouse, yet I'm drawn to horror movies  
+- ⚡ Fun fact: I like watching horror movies, especially at midnight
   
 
 <br/>  
