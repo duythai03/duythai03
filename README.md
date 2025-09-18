@@ -3,16 +3,16 @@
 </div>  
   
 
-### <div align="center">I'm Thai, a Front-end development enthusiast 👨‍💻 </div>  
+### <div align="center">I'm Thai, a Front-end development & Business Analyst enthusiast 👨‍💻 </div>  
   
 
 - 🚀 Im currently studying at the University of Information Technology, VN.  
   
 
-- 🌱 I’m currently learning Reactjs  
+- 🌱 I’m currently learning Business Analyst  
   
 
-- ❓ Ask me about anything related to Web development  
+- ❓ Ask me about anything related to Information Technology 
   
 
 - ⚡ Fun fact: I like watching horror movies, especially at midnight
