@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Thai, a Front-end development & Business Analyst enthusiast 👨‍💻 </div>  
+### <div align="center">I'm Thai, a Front-end development enthusiast 👨‍💻 </div>  
   
 
 - 🚀 Im currently studying at the University of Information Technology, VN.  
